@@ -23,7 +23,7 @@
                     <div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">
                         <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">David Yao</h4>
                     </div>
-                    <p class="g-font-weight--700">CEO-Fondateur de Oschool</p>
+                    <p class="g-font-weight--700">CEO et co-fondateur</p>
                     <p>CEO de www.oschool.ci, une plateforme de formation en ligne, et fondateur de Rikudo Technologies, une start-up spécialisé dans la réalisation d'applications web et mobiles pour les entreprises locales et internationales.</p>
                 </div>
             </div>
@@ -42,7 +42,7 @@
             <img class="img-responsive g-width-100-percent--xs" src="/rikudotech/img/rik/adams.png">
             <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
                 <h3 class="g-font-size-18--xs g-margin-b-5--xs">Adams Tehoua</h3>
-                <span class="g-font-size-15--xs g-color--text"><i>Marketing & Management</i></span>
+                <span class="g-font-size-15--xs g-color--text"><i>Co-fondateur, Directeur Marketing & Management</i></span>
             </div>
         </div>
         <!-- End Team -->
@@ -56,7 +56,7 @@
                 <img class="img-responsive g-width-100-percent--xs" src="/rikudotech/img/rik/arsene.png">
                 <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
                     <h2 class="g-font-size-18--xs g-margin-b-5--xs">Arsene Kouassi</h2>
-                    <span class="g-font-size-15--xs g-color--text"><i>Développeur</i></span>
+                    <span class="g-font-size-15--xs g-color--text"><i>Co-fondateur et Développeur</i></span>
                 </div>
             </div>
             <!-- End Team -->

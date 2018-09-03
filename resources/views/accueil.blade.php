@@ -11,7 +11,7 @@
                 <div class="g-margin-b-30--xs">
                     <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-55--md g-color--white">Nous donnons vie a vos rêves<br>graces aux technologies<br>Web</h2>
                 </div>
-                <a class="js__popup__youtube" href="#">
+                <a class="js__popup__youtube" href="https://vimeo.com/287965770">
                     <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-control-play"></i>
                 </a>
             </div>
@@ -22,7 +22,7 @@
                     <div class="g-margin-b-30--xs">
                         <h2 class="g-font-size-35--xs g-font-size-45--sm g-font-size-55--md g-color--white">Nous travaillons pour que<br> vos sites soient dans les meilleurs<br>résultats de recherche</h2>
                     </div>
-                    <a class="js__popup__youtube" href="#" title="Intro Video">
+                    <a class="js__popup__youtube" href="https://vimeo.com/287965770" title="Rikudo Technologies">
                         <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-control-play"></i>
                     </a>
                 </div>
