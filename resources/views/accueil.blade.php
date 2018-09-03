@@ -369,7 +369,7 @@
                 <div class="swiper-slide g-padding-x-130--sm g-padding-x-150--lg">
                     <div class="g-padding-x-20--xs g-padding-x-50--lg">
                         <div class="g-margin-b-40--xs">
-                            <p class="g-font-size-22--xs g-font-size-28--sm g-color--white"><i>" Je trouve du professionnalisme dans ce que vous faites, réactifs aux inquiétudes du clients sincère. Cependent j'ai l'impression que vous être surbooké par d'autres projets prioritaires  "</i></p>
+                            <p class="g-font-size-22--xs g-font-size-28--sm g-color--white"><i>" Je trouve du professionnalisme dans ce que vous faites, réactifs aux inquiétudes du clients sincère."</i></p>
                         </div>
                         <div class="center-block g-hor-divider__solid--white-opacity-lightest g-width-100--xs g-margin-b-30--xs"></div>
                         <h4 class="g-font-size-15--xs g-font-size-18--sm g-color--white-opacity-light g-margin-b-5--xs"></h4>
@@ -430,17 +430,17 @@
 <div class="container g-padding-y-80--xs g-padding-y-125--sm">
     <div class="g-text-center--xs g-margin-b-80--xs">
         <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Blog</p>
-        <h2 class="g-font-size-32--xs g-font-size-36--md">Articles les plus récents</h2>
+        <h2 class="g-font-size-32--xs g-font-size-36--md">Articles les plus populaires</h2>
     </div>
     <div class="row">
         <div class="col-sm-4 g-margin-b-30--xs g-margin-b-0--md">
             <!-- News -->
             <article>
-                <img class="img-responsive" src="/rikudotech/img/970x970/01.jpg" alt="Image">
+                <img class="img-responsive" src="/rikudotech/img/970x970/blog1.png" alt="Image">
                 <div class="g-bg-color--white g-box-shadow__dark-lightest-v2 g-text-center--xs g-padding-x-40--xs g-padding-y-40--xs">
                     <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">News</p>
-                    <h3 class="g-font-size-22--xs g-letter-spacing--1"><a href="http://keenthemes.com/">Create Something Great.</a></h3>
-                    <p>The time has come to bring those ideas and plans to life.</p>
+                    <h3 class="g-font-size-22--xs g-letter-spacing--1"><a target="_blank" href="http://deviens-developpeur.com/techniques-ameliorer-referencement-seo/">12 techniques pour améliorer son référencement SEO</a></h3>
+                    <p>Première chose à savoir : qu'est ce que le référencement SEO ? Le terme « référencement » (en anglais SEO pour Search Engine Optimization, traduisez…</p>
                 </div>
             </article>
             <!-- End News -->
@@ -448,11 +448,11 @@
         <div class="col-sm-4 g-margin-b-30--xs g-margin-b-0--md">
             <!-- News -->
             <article>
-                <img class="img-responsive" src="/rikudotech/img/970x970/02.jpg" alt="Image">
+                <img class="img-responsive" src="/rikudotech/img/970x970/blog2.png" alt="Image">
                 <div class="g-bg-color--white g-box-shadow__dark-lightest-v2 g-text-center--xs g-padding-x-40--xs g-padding-y-40--xs">
                     <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">News</p>
-                    <h3 class="g-font-size-22--xs g-letter-spacing--1"><a href="http://keenthemes.com/">Jacks of All. Experts in All.</a></h3>
-                    <p>The time has come to bring those ideas and plans to life.</p>
+                    <h3 class="g-font-size-22--xs g-letter-spacing--1"><a target="_blank" href="http://deviens-developpeur.com/comment-je-gagne-ma-vie-sur-internet/">Comment je gagne ma vie sur Internet</a></h3>
+                    <p>Hello #davidnation , Voici plus d'un an que je me suis lancé sur le web en tant qu'entrepreneur. Et à…</p>
                 </div>
             </article>
             <!-- End News -->
@@ -460,11 +460,11 @@
         <div class="col-sm-4">
             <!-- News -->
             <article>
-                <img class="img-responsive" src="/rikudotech/img/970x970/03.jpg" alt="Image">
+                <img class="img-responsive" src="/rikudotech/img/970x970/blog3.png" alt="Image">
                 <div class="g-bg-color--white g-box-shadow__dark-lightest-v2 g-text-center--xs g-padding-x-40--xs g-padding-y-40--xs">
                     <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2">News</p>
-                    <h3 class="g-font-size-22--xs g-letter-spacing--1"><a href="http://keenthemes.com/">Finding your Perfect Place.</a></h3>
-                    <p>The time has come to bring those ideas and plans to life.</p>
+                    <h3 class="g-font-size-22--xs g-letter-spacing--1"><a target="_blank" href="http://deviens-developpeur.com/pourquoi-les-femmes-ne-devraient-pas-craindre-la-programmation/">Pourquoi les femmes ne devraient pas craindre la programmation</a></h3>
+                    <p>Salut la #Davidnation Si je vous disais ces deux mots: femme et développement web, qu'en penseriez vous? Beaucoup d'entre vous diraient que…</p>
                 </div>
             </article>
             <!-- End News -->
