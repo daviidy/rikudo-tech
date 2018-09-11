@@ -9,7 +9,7 @@
         <div class="g-fullheight--xs g-bg-position--center swiper-slide" style="background: url('/rikudotech/img/slider/03.jpg');">
             <div class="container g-text-center--xs g-ver-center--xs">
                 <div class="g-margin-b-30--xs">
-                    <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-55--md g-color--white">Nous donnons vie a vos rêves<br>graces aux technologies<br>Web</h2>
+                    <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-55--md g-color--white">Nous donnons vie a vos rêves<br>grâce aux technologies<br>Web</h2>
                 </div>
                 <a class="js__popup__youtube" href="https://vimeo.com/287965770">
                     <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-control-play"></i>

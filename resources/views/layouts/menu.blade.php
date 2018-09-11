@@ -11,7 +11,7 @@
         <link rel="shortcut icon" href="img/logo-sm.jpg" type="image/x-icon">
         <title>Rikudotech</title>
         <meta name="keywords" content="Faire son site web, convevoir son site internet, agence web, développer son site web, développer application" />
-        <meta name="description" content="Megakit - HTML5 Theme">
+        <meta name="description" content="Besoin d'aide pour vos projets web et mobiles ? Pas de panique, nous sommes là pour vous aider.">
         <meta name="author" content="keenthemes.com">
 
         <!-- Web Fonts -->
@@ -163,9 +163,7 @@
                           <img class="g-width-100--xs g-height-auto--xs" src="/rikudotech/img/rik/logo.png" alt="Rikudo Technologies Logo">
                       </a>
                   </div>
-                  <div class="col-xs-6 g-text-right--xs">
-                      <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light"><a href="http://keenthemes.com/preview/Megakit/">Megakit</a> Theme Powered by: <a href="http://www.keenthemes.com/">KeenThemes.com</a></p>
-                  </div>
+                  
               </div>
           </div>
           <!-- End Copyright -->
