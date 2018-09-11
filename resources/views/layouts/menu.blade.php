@@ -12,7 +12,6 @@
         <title>Rikudotech</title>
         <meta name="keywords" content="Faire son site web, convevoir son site internet, agence web, développer son site web, développer application" />
         <meta name="description" content="Besoin d'aide pour vos projets web et mobiles ? Pas de panique, nous sommes là pour vous aider.">
-        <meta name="author" content="keenthemes.com">
 
         <!-- Web Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
@@ -163,7 +162,7 @@
                           <img class="g-width-100--xs g-height-auto--xs" src="/rikudotech/img/rik/logo.png" alt="Rikudo Technologies Logo">
                       </a>
                   </div>
-                  
+
               </div>
           </div>
           <!-- End Copyright -->
